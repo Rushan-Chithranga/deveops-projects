@@ -1,4 +1,5 @@
 # Hello Captain Docker Image
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 This project contains a simple Dockerfile to create a Docker image that prints **"Hello, Captain!"** to the console when run.
 
@@ -9,8 +10,11 @@ This project contains a simple Dockerfile to create a Docker image that prints *
 - Includes metadata using Docker labels
 
 ## Requirements
+- Docker installed on your system ([Download Docker](https://www.docker.com/products/docker-desktop))
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## Roadmap 
+- Roadmap.sh Project URL: https://roadmap.sh/projects/basic-dockerfile
 
 ## Usage
 
